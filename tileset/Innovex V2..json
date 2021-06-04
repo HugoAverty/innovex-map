@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"Innovex V2..json"
         }
     },
  "height":50,
@@ -27,8 +27,8 @@
          "height":50,
          "id":164,
          "name":"COLLISIONS 2",
-         "offsetx":-14.9402,
-         "offsety":-12.0945,
+         "offsetx":-14.9402390438247,
+         "offsety":-12.0944792259534,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -658,7 +658,7 @@
                  "id":34,
                  "name":"D\u00e9co 2 tables",
                  "offsetx":-8,
-                 "offsety":5.20833,
+                 "offsety":5.20833333333333,
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
@@ -1776,7 +1776,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"\/tileset\/LPC-terrains-subimissions-outside.png",
+         "image":"..\/0_Ressources\/LPC-terrains-subimissions-outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1789,7 +1789,7 @@
         {
          "columns":19,
          "firstgid":1025,
-         "image":"\/tileset\/modern_interiors_2.png",
+         "image":"..\/0_Ressources\/modern_interiors_2.png",
          "imageheight":7040,
          "imagewidth":608,
          "margin":0,
@@ -1802,7 +1802,7 @@
         {
          "columns":19,
          "firstgid":5205,
-         "image":"\/tileset\/modern_interiors_nightmode_2.png",
+         "image":"..\/0_Ressources\/modern_interiors_nightmode_2.png",
          "imageheight":5760,
          "imagewidth":608,
          "margin":0,
@@ -1815,7 +1815,7 @@
         {
          "columns":40,
          "firstgid":8625,
-         "image":"\/tileset\/modern_tileset.png",
+         "image":"..\/Exemples Maps\/UKG\/event_fr\/assets\/modern_tileset.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -5753,7 +5753,7 @@
         {
          "columns":19,
          "firstgid":10945,
-         "image":"\/tileset\/modern_interiors_nightmode_1.png",
+         "image":"..\/0_Ressources\/modern_interiors_nightmode_1.png",
          "imageheight":7328,
          "imagewidth":608,
          "margin":0,
@@ -5766,7 +5766,7 @@
         {
          "columns":8,
          "firstgid":15296,
-         "image":"\/tileset\/Texture_Divers_pierre_bois.png",
+         "image":"..\/0_Ressources\/Texture_Divers_pierre_bois.png",
          "imageheight":1152,
          "imagewidth":256,
          "margin":0,
@@ -5779,7 +5779,7 @@
         {
          "columns":8,
          "firstgid":15584,
-         "image":"\/tileset\/Textures.png",
+         "image":"..\/0_Ressources\/Textures.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -5792,7 +5792,7 @@
         {
          "columns":19,
          "firstgid":16648,
-         "image":"\/tileset\/modern_interiors_1.png",
+         "image":"..\/0_Ressources\/modern_interiors_1.png",
          "imageheight":7328,
          "imagewidth":608,
          "margin":0,
@@ -5805,7 +5805,7 @@
         {
          "columns":22,
          "firstgid":20999,
-         "image":"\/tileset\/Desktop.png",
+         "image":"..\/0_Ressources\/Desktop.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -5818,7 +5818,7 @@
         {
          "columns":40,
          "firstgid":21527,
-         "image":"\/tileset\/modern_tileset_darkmode.png",
+         "image":"..\/Exemples Maps\/UKG\/event_fr\/assets\/modern_tileset_darkmode.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -5958,7 +5958,7 @@
         {
          "columns":1,
          "firstgid":23847,
-         "image":"\/tileset\/HUGO\/Sans titre-2 copie.png",
+         "image":"..\/0_Ressources\/HUGO\/Sans titre-2 copie.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -5970,16 +5970,16 @@
         }, 
         {
          "firstgid":23849,
-         "source":"\/tileset\/Shadow.tsx"
+         "source":"Shadow.tsx"
         }, 
         {
          "firstgid":23854,
-         "source":"\/tileset\/Trees.tsx"
+         "source":"Trees.tsx"
         }, 
         {
          "columns":4,
          "firstgid":24470,
-         "image":"\/tileset\/Logo\/Sans titre-4.png",
+         "image":"..\/0_Ressources\/Logo\/Sans titre-4.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
@@ -5992,7 +5992,7 @@
         {
          "columns":3,
          "firstgid":24482,
-         "image":"\/tileset\/HUGO\/Foot arc.png",
+         "image":"..\/0_Ressources\/HUGO\/Foot arc.png",
          "imageheight":224,
          "imagewidth":96,
          "margin":0,
@@ -6005,7 +6005,7 @@
         {
          "columns":7,
          "firstgid":24503,
-         "image":"\/tileset\/HUGO\/Line foot.png",
+         "image":"..\/0_Ressources\/HUGO\/Line foot.png",
          "imageheight":262,
          "imagewidth":228,
          "margin":0,
@@ -6018,7 +6018,7 @@
         {
          "columns":17,
          "firstgid":24559,
-         "image":"\/tileset\/balloon.png",
+         "image":"..\/0_Ressources\/balloon.png",
          "imageheight":480,
          "imagewidth":544,
          "margin":0,
@@ -6031,7 +6031,7 @@
         {
          "columns":1,
          "firstgid":24814,
-         "image":"\/tileset\/HUGO\/Light.png",
+         "image":"..\/0_Ressources\/HUGO\/Light.png",
          "imageheight":179,
          "imagewidth":32,
          "margin":0,
@@ -6044,7 +6044,7 @@
         {
          "columns":7,
          "firstgid":24819,
-         "image":"\/tileset\/Logo\/Panneau.png",
+         "image":"..\/0_Ressources\/Logo\/Panneau.png",
          "imageheight":252,
          "imagewidth":252,
          "margin":0,
@@ -6057,7 +6057,7 @@
         {
          "columns":2,
          "firstgid":24868,
-         "image":"\/tileset\/collides.png",
+         "image":"..\/0_Ressources\/collides.png",
          "imageheight":32,
          "imagewidth":64,
          "margin":0,
@@ -6070,7 +6070,7 @@
         {
          "columns":5,
          "firstgid":24870,
-         "image":"\/tileset\/watileset.png",
+         "image":"..\/0_Ressources\/watileset.png",
          "imageheight":544,
          "imagewidth":170,
          "margin":0,
@@ -6083,7 +6083,7 @@
         {
          "columns":32,
          "firstgid":24955,
-         "image":"\/tileset\/LPC-terrains-subimissions-outside.png",
+         "image":"..\/0_Ressources\/LPC-terrains-subimissions-outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -6096,7 +6096,7 @@
         {
          "columns":1,
          "firstgid":25979,
-         "image":"\/tileset\/HUGO\/Light.png",
+         "image":"..\/0_Ressources\/HUGO\/Light.png",
          "imageheight":179,
          "imagewidth":32,
          "margin":0,
@@ -6109,7 +6109,7 @@
         {
          "columns":7,
          "firstgid":25984,
-         "image":"\/tileset\/Logo\/Panneau.png",
+         "image":"..\/0_Ressources\/Logo\/Panneau.png",
          "imageheight":252,
          "imagewidth":252,
          "margin":0,
@@ -6122,7 +6122,7 @@
         {
          "columns":7,
          "firstgid":26033,
-         "image":"\/tileset\/Logo\/Panneau.png",
+         "image":"..\/0_Ressources\/Logo\/Panneau.png",
          "imageheight":252,
          "imagewidth":252,
          "margin":0,
@@ -6135,7 +6135,7 @@
         {
          "columns":7,
          "firstgid":26082,
-         "image":"\/tileset\/Logo\/Panneau.png",
+         "image":"..\/0_Ressources\/Logo\/Panneau.png",
          "imageheight":252,
          "imagewidth":252,
          "margin":0,
