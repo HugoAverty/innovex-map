@@ -1,12 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"json",
-         "target":"map.json"
-        }
-    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -27,8 +19,8 @@
          "height":50,
          "id":164,
          "name":"COLLISIONS 2",
-         "offsetx":-14.9402390438247,
-         "offsety":-12.0944792259534,
+         "offsetx":-14.9402,
+         "offsety":-12.0945,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -658,7 +650,7 @@
                  "id":34,
                  "name":"D\u00e9co 2 tables",
                  "offsetx":-8,
-                 "offsety":5.20833333333333,
+                 "offsety":5.20833,
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
