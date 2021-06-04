@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"..\/CLIENTS\/Innovex V2..json"
+        }
+    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -5962,11 +5970,11 @@
         }, 
         {
          "firstgid":23849,
-         "source":"Shadow.tsx"
+         "source":"..\/CLIENTS\/Shadow.tsx"
         }, 
         {
          "firstgid":23854,
-         "source":"Trees.tsx"
+         "source":"..\/CLIENTS\/Trees.tsx"
         }, 
         {
          "columns":4,
