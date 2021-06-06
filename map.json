@@ -1777,7 +1777,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":168,
+ "nextlayerid":170,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -6068,6 +6068,33 @@
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":3,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":31.0732360821673,
+                             "id":8,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":30.8871688002382,
+                             "x":0.558201845787437,
+                             "y":0.558201845787437
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }],
          "tilewidth":32
         }, 
         {
