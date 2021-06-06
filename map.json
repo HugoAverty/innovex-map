@@ -6328,8 +6328,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":26126,
-         "source":"..\/CLIENTS\/Shadow.tsx"
+         "image":"tileset\/HUGO\/Sans titre-3.png",
+         "imageheight":179,
+         "imagewidth":32,
+         "margin":0,
+         "name":"Shadow",
+         "spacing":0,
+         "tilecount":5,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
