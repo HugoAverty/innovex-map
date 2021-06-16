@@ -6829,8 +6829,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":4,
          "firstgid":26131,
-         "source":"Sans titre-4.tsx"
+         "image":"..\/0_Ressources\/Logo\/Sans titre-4.png",
+         "imageheight":96,
+         "imagewidth":128,
+         "margin":0,
+         "name":"Sans titre-4",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
